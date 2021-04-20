@@ -3,7 +3,7 @@ body {font-family: 'Inter', sans-serif; font-size: 16px;}
 
 a{text-decoration: none;}
 
-h1, h2, h3, h4, h5{color:#000; padding-bottom: 30px;}
+h1, h2, h3, h4, h5, p{color:#000; padding-bottom: 30px;}
 
 .big-text{font-size: 70px; font-weight: 900;}
 .med-text{font-size: 40px;}
@@ -79,7 +79,6 @@ header{
 }
 
 .hero__content{
-    border: 1px solid red;
     width: 100%;
     max-width: 1350px;
     margin: 0 auto;
